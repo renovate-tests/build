@@ -71,7 +71,7 @@ require (
 	google.golang.org/api v0.0.0-20180808000436-6e1e03fd226b
 	google.golang.org/appengine v1.1.0
 	google.golang.org/genproto v0.0.0-20180731170733-daca94659cb5
-	google.golang.org/grpc v1.14.0 // indirect
+	google.golang.org/grpc v1.15.0 // indirect
 	gopkg.in/inf.v0 v0.9.1
 	grpc.go4.org v0.0.0-20170609214715-11d0a25b4919
 )
