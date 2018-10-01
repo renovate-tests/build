@@ -69,7 +69,7 @@ require (
 	golang.org/x/time v0.0.0-20180412165947-fbb02b2291d2
 	golang.org/x/tools v0.0.0-20180807205940-ca6481ae5650
 	google.golang.org/api v0.0.0-20180808000436-6e1e03fd226b
-	google.golang.org/appengine v1.1.0
+	google.golang.org/appengine v1.2.0
 	google.golang.org/genproto v0.0.0-20180731170733-daca94659cb5
 	google.golang.org/grpc v1.14.0 // indirect
 	gopkg.in/inf.v0 v0.9.1
