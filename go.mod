@@ -30,7 +30,7 @@ require (
 	github.com/neelance/astrewrite v0.0.0-20160511093645-99348263ae86 // indirect
 	github.com/neelance/sourcemap v0.0.0-20151028013722-8c68805598ab // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/russross/blackfriday v1.5.1 // indirect
+	github.com/russross/blackfriday v1.5.2 // indirect
 	github.com/sergi/go-diff v1.0.0 // indirect
 	github.com/shurcooL/component v0.0.0-20170202220835-f88ec8f54cc4 // indirect
 	github.com/shurcooL/events v0.0.0-20180517181903-37636e399bf5 // indirect
