@@ -2,7 +2,7 @@ module golang.org/x/build
 
 require (
 	cloud.google.com/go v0.26.0
-	contrib.go.opencensus.io/exporter/stackdriver v0.5.0 // indirect
+	contrib.go.opencensus.io/exporter/stackdriver v0.6.0 // indirect
 	dmitri.shuralyov.com/html/belt v0.0.0-20180602232347-f7d459c86be0 // indirect
 	dmitri.shuralyov.com/state v0.0.0-20180228185332-28bcc343414c // indirect
 	github.com/anmitsu/go-shlex v0.0.0-20161002113705-648efa622239 // indirect
