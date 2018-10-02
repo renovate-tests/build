@@ -26,7 +26,7 @@ require (
 	github.com/kisielk/gotool v1.0.0 // indirect
 	github.com/kr/pretty v0.1.0 // indirect
 	github.com/kr/pty v1.1.2
-	github.com/microcosm-cc/bluemonday v1.0.0 // indirect
+	github.com/microcosm-cc/bluemonday v1.0.1 // indirect
 	github.com/neelance/astrewrite v0.0.0-20160511093645-99348263ae86 // indirect
 	github.com/neelance/sourcemap v0.0.0-20151028013722-8c68805598ab // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
